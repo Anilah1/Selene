@@ -1,5 +1,8 @@
 Selene - Restaurant Booking & Menu App
+
 Welcome to Selene, your gateway to a seamless and celestial dining experience. This app allows users to explore the Selene restaurant's menu, easily book tables, and create personal accounts for a more personalized experience.
+
+<img width="558" alt="Screenshot 2024-10-22 at 13 27 48" src="https://github.com/user-attachments/assets/8a81b09d-d928-4f17-99fc-e15c29d90ec4">
 
 Features
 1. User Authentication
@@ -22,6 +25,11 @@ MapKit for displaying restaurant location.
 Authentication Services for Facebook sign-in integration.
 
 Future Enhancements
+
 Online Ordering: Adding an option to order food for delivery or pickup.
+
 Customer Reviews: Allowing users to leave reviews for dishes or the restaurant.
+
 Loyalty Program: Introducing rewards for frequent diners.
+
+
